@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840586784428",
+    "firebase_url": "https://secimtahmin-81ad4.firebaseio.com",
+    "project_id": "secimtahmin-81ad4",
+    "storage_bucket": "secimtahmin-81ad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840586784428:android:5b32de8b8219a6d2",
+        "android_client_info": {
+          "package_name": "com.ibrahim.secimtahmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840586784428-ccgfo4gid34mb8j4hv8qff5hbvo0926k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibrahim.secimtahmin",
+            "certificate_hash": "640b91f0c1e6f2846a12e5b040f3d7dbeee9e3d6"
+          }
+        },
+        {
+          "client_id": "840586784428-dn810pll50avs3h9qm2pdkoq0oac7au4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB40dd6h3PdchNnYUqbNhtLEHzqqvqx-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840586784428-dn810pll50avs3h9qm2pdkoq0oac7au4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
